@@ -51,8 +51,7 @@ const mapStateToProps = state => {
     }
 }
 
-const mapDispatchToProps = {
-} = (dispatch, ownProps) => {
+const mapDispatchToProps = (dispatch, ownProps) => {
     return { setInput: bindActionCreators(setInput, dispatch) }
 }
 

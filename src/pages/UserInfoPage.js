@@ -9,7 +9,7 @@ class AddTodo extends Component {
         }
     }
     componentDidMount() {
-        console.log('---------------')
+        console.log('-------66666--------')
         console.log(this.props)
     }
     render(){

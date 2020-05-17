@@ -7,7 +7,7 @@ class AddTodo extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            data: '-----djhshdjsdhj0000000---'
+            data: '-----djhsjsdhj0000000---'
         }
     }
     componentDidMount() {

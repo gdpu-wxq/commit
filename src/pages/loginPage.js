@@ -27,7 +27,7 @@ class AddTodo extends Component {
           })
     }
     changed(){
-        let a = this.props.setInput('22222222')
+        let a = this.props.setInput('222kkkk22222')
         console.log(a)
     }
     
